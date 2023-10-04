@@ -1,8 +1,8 @@
-#!/usr/bin/env deno run --allow-net
+#!/usr/bin/env deno run
 
 import { Application, Router } from 'https://deno.land/x/oak/mod.ts';
 
-const port = 8009;
+const port = 3000;
 const app = new Application();
 
 const router = new Router();
