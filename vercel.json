@@ -1,7 +1,7 @@
 {
   "public": true,
   "functions": {
-    "**/*.[jt]s": {
+    "output/**/*.[jt]s": {
       "runtime": "vercel-deno@3.0.4"
     }
   }
