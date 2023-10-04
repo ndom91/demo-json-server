@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "*.[jt]s": {
+      "runtime": "vercel-deno@3.0.4"
+    }
+  }
+}
